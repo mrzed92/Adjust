@@ -1,0 +1,2 @@
+The file RandomNumberGenerator.sh is created to generate random numbers in range of 1 to 10 with no repeat (i.e., duplicates removed) and is only for the initial test and interview conducted by Adjust for the position of Network Monitoring Engineer.
+The shell script is completely done in Bash and does not depend on any external library or code.
