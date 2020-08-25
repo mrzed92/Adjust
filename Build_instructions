@@ -1,0 +1,10 @@
+Git Clone:
+          echo "# Adjust" >> README.md
+          git init
+          git add README.md
+          git commit -m "first commit"
+          git remote add origin https://github.com/mrzed92/Adjust.git
+          git push -u origin master
+
+Grant shell script to get executed:
+          (from your user account) chmod u+x "Path to the shell file and filename".sh
